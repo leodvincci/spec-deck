@@ -40,8 +40,6 @@ Specs shouldn’t be messy, ad-hoc, or painful to write. SpecDeck helps teams:
 
 ### **Architecture / Tech Notes (placeholder)**
 
-You can keep this as a stub until you finalize stack details:
-
 - Frontend: React (planned)
 - Backend: (TBD)
 - Authentication: (TBD)
