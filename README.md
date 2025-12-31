@@ -1,6 +1,7 @@
-# spec-deck
-![specdecklogo.png](specdecklogo.png)
+# SpecDeck
+
 ### **SpecDeck**
+<img width="1920" height="1440" alt="186shots_so" src="https://github.com/user-attachments/assets/a136915f-57d5-41f7-b433-f98d15b3c981" />
 
 SpecDeck is a SaaS platform designed for engineering teams, product leaders, and builders who want cleaner thinking and better execution. It provides a structured way to write specifications, acceptance criteria, and sprint slices using reusable patterns—so teams ship clearer requirements and fewer misunderstandings.
 
